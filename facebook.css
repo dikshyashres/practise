@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.basic{
+    border: inset;
+    padding: 15px;
+    width: 26%;
+}
+.para{
+    text-align: center;
+    padding: 10px;
+    width: 10px;
+}
+body{
+    background-color: whitesmoke;
+    display: inline;
+    justify-content: center;
+    padding: 167px;
+    width: 1003px;
+}

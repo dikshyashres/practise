@@ -1,0 +1,23 @@
+p{
+    color: black;
+
+}
+h1{
+    color: red;
+}
+.my_container p{
+    color: blue;
+    width: 100px;
+}
+.office h3{
+    color: burlywood;
+}
+.office a{
+    font: bold;
+    color: brown;
+}
+.my_container h2{
+    color: yellowgreen;
+    background-color: aquamarine;
+}
+

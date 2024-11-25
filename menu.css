@@ -1,0 +1,13 @@
+body{
+    background-image: url(color.jpg);
+}
+.drink{
+    display: flex;
+   justify-content:space-around ;
+   align-items: center;
+}
+.Food{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
